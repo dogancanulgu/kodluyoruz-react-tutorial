@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dogancanulgu/kodluyoruz-react-tutorial#readme",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "slugify": "^1.5.3"
   }
 }
